@@ -1,4 +1,4 @@
-# Docker-ESS-Python-Stack
+# Docker-ESS-Python-Stack (in progress!)
 ==============================
 
 ### The goal of this project is to create a gentoo-based docker image pre-installed with open-source tools and python packages widely used in earth system data analysis.
